@@ -6,5 +6,4 @@ This project is a personal project and the data from this project was obtained f
 # Analysis
 # What I Learned
 # Insights
-# Conclusion
-jiki
+# Conclusion 
