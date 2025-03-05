@@ -1,5 +1,5 @@
 # Introduction
-This project is a personal project and the data from this project was obtained from Kaggle called the housing price prediction. It involves the making a model to to predict the house prices. It doesn't go up to detail of its deployment but this are the first steps in my machine learning journey to showcase my growth in this industry. I believe I am in the right place to learn Machine learning and AI, together with data data analysis. Github provides a perfect platform torecord and also track my progress.
+This project is a personal project and the data from this project was obtained from Kaggle called the housing price prediction. It involves the making a model to to predict the house prices. It doesn't go up to detail of its deployment but this are the first steps in my machine learning journey to showcase my growth in this industry. I believe I am in the right place to learn Machine learning and AI, together with data data analysis. Github provides a perfect platform to record and also track my progress.
 
 # Background
 The data was obtained from Kaggle and it is a competition. The data is about the housing prices in the United States. The data is divided into two parts, the training data and the test data. The training data contains the features and the target variable. The test data contains the features only. The goal is to predict the house prices in the test data. The data contains 79 features and 1 target variable. The target variable is the sale price of the house. The features are the characteristics of the house. The data is in a csv format. The data is clean and does not contain any missing values
@@ -25,7 +25,7 @@ Here is a visual representation of the pipeline and code:
 ![Pipeline](https://github.com/Ismail-Yassin/Housing-Price-Prediction/blob/8ed15e881c38d353b870ed234aa24d10ca71519e/Images/My%20pipeline.png)
 
 # What I Learned
-In this project, I learned the follwing and I am going to build on it in the future:
+In this project, I learned the following and I am going to build on it in the future:
 - Data Preprocessing
 - Exploratory Data Analysis
 - Feature Engineering
