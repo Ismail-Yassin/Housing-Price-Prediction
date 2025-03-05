@@ -19,6 +19,15 @@ The analysis was done in the following steps:
 - Model Evaluation
 
 Here is a visual representation of the pipeline:
+'''{python}
+# Importing the necessary libraries
+from sklearn.pipeline import make_pipeline, Pipeline
+from sklearn.compose import ColumnTransformer
+from sklearn.impute import SimpleImputer
+from sklearn.preprocessing import StandardScaler, OneHotEncoder
+
+![]()
+'''
 
 ![Pipeline](https://github.com/Ismail-Yassin/Housing-Price-Prediction/blob/8ed15e881c38d353b870ed234aa24d10ca71519e/Images/My%20pipeline.png)
 
