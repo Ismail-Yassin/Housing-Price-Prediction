@@ -19,7 +19,8 @@ The analysis was done in the following steps:
 - Model Evaluation
 
 Here is a visual representation of the pipeline:
-! [Pipeline](Images\My pipeline.png)
+
+![Pipeline](https://github.com/Ismail-Yassin/Housing-Price-Prediction/blob/8ed15e881c38d353b870ed234aa24d10ca71519e/Images/My%20pipeline.png)
 
 # What I Learned
 In this project, I learned the follwing and I am going to build on it in the future:
