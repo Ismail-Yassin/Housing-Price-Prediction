@@ -19,7 +19,7 @@ The analysis was done in the following steps:
 - Model Evaluation
 
 Here is a visual representation of the pipeline:
-![Pipeline](Images\My pipeline.png)
+! [Pipeline](Images\My pipeline.png)
 
 # What I Learned
 In this project, I learned the follwing and I am going to build on it in the future:
