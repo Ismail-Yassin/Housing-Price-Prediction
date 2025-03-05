@@ -20,7 +20,7 @@ The analysis was done in the following steps:
 
 Here is a visual representation of the pipeline and code:
 
-[Code]()
+![Code](https://github.com/Ismail-Yassin/Housing-Price-Prediction/blob/b88254cfd35d43e38e380121baf7806eef68be30/Images/code.png)
 
 ![Pipeline](https://github.com/Ismail-Yassin/Housing-Price-Prediction/blob/8ed15e881c38d353b870ed234aa24d10ca71519e/Images/My%20pipeline.png)
 
